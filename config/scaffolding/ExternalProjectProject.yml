@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ExternalProjectProject
+  gitServerName: vidi
+  gitUrl: https://github.com/vidi294
+  gitUsername: vidi294
+  gitBranch: main
